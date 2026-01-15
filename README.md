@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Software Developer | Front-End & Full-Stack Enthusiast
 
-I am a Telecommunications and Networking Engineer with experience in software development. I specialize in Java (object-oriented programming), business rule validations, and technical documentation. Currently, I am strengthening my skills in Front-End (HTML, CSS, JavaScript, React) and Back-End with Java to become a well-rounded Full Stack Developer.
+I am a Telecommunications and Networking Engineer with experience in software development. I specialize in Java (object-oriented programming), business rule validations, and technical documentation. Currently, I am strengthening my skills in Front-End (HTML, CSS, JavaScript) and Back-End with Java to become a well-rounded Full Stack Developer.
 
 🎨 I am passionate about Front-End development because it allows me to combine logic with creativity and build experiences that truly connect with users.
 🚀 I am a continuous learner who enjoys working in environments that value collaboration, professional growth, and a strong commitment to quality.
@@ -17,13 +17,11 @@ I am a Telecommunications and Networking Engineer with experience in software de
 
 ## 🌟 Interests
 
-Front-End Development (HTML, CSS, JavaScript, React)
+Front-End Development (HTML, CSS, JavaScript)
 
-Back-End Development (Java)
+Back-End Development (Java, SpringBoot)
 
 Full Stack Projects
-
-UI/UX Design Basics
 
 ## 📫 Contact
 ✉️ **Email:** zairapl12@gmail.com | zpopocaa@gmail.com  
